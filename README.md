@@ -1,2 +1,2 @@
 # PAC2
-Practica evaluable 2 EDD
+**Este proyecto forma parte de una actividad de la asignatura EDD.**
