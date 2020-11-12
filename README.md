@@ -1,2 +1,2 @@
 # PAC2
-Hola clase
+Practica evaluable 2 EDD
